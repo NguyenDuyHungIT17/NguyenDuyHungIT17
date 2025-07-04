@@ -1,64 +1,56 @@
-<h1 align="center">👋 Hi, I'm Nguyen Duy Hung</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer from Hanoi, Vietnam</h3>
+<h1 align="center">Hi there, I'm Hung 👋</h1>
+<h3 align="center">Full-Stack Developer | Backend Enthusiast | Code. Learn. Repeat.</h3>
 
 <p align="center">
-  <a href="mailto:nguyenduyhungit17@gmail.com">📧 Email</a> |
-  <a href="https://github.com/NguyenDuyHungIT17">💻 GitHub</a> |
+  <a href="mailto:nguyenduyhungit17@gmail.com">📫 Email</a> • 
+  <a href="https://github.com/NguyenDuyHungIT17">🐙 GitHub</a> • 
   📍 Hanoi, Vietnam
 </p>
 
 ---
 
-### 🎯 Career Objective
+### 🚀 A bit about me
 
-I am eager to contribute to innovative projects and gain practical experience in dynamic environments. I'm currently seeking a **Web Internship** opportunity where I can apply my technical skills, problem-solving ability, and passion for building scalable and efficient systems.
+I'm a passionate full-stack developer who thrives on clean architecture and robust backend systems.  
+Whether it's building APIs, designing databases, or optimizing performance — I love turning complex problems into elegant solutions.
 
----
+I’m currently learning, building, breaking, and fixing things with:
 
-### 🛠️ Tech Stack
-
-- **Languages**: Golang, Java, C#
-- **Frontend**: HTML, CSS, JavaScript
-- **Frameworks**:
-  - Java: Spring Boot, Spring Security, Hibernate
-  - C#: ASP.NET Core, Entity Framework
-  - Go: Go-Zero (goctl api/model), JWT, Auth middleware
-- **Dev Tools**: Git, GitHub, VS Code, Visual Studio, Postman, Swagger
-- **Database**: MySQL, SQL Server
-- **Other**: RESTful API, Maven
+- **Golang** – blazing fast, simple, and my favorite for backend development  
+- **Java** – comfortable with Spring Boot, JPA, and secure APIs  
+- **C#** – experienced with ASP.NET Core & Entity Framework
 
 ---
 
-### 👨‍💻 Projects
+### 🧰 My Tech Toolbox
 
-#### 📘 [Classroom Management Website](https://github.com/NguyenDuyHungIT17/classroom) (In Progress)
-- Role: Full-stack (Individual)
-- Tech: Golang, GoZero, JWT, MySQL
-- Description: A full-featured platform to manage class schedules, assignments, and student data.
+- 🔧 **Languages**: Go, Java, C#
+- 🛠 **Frameworks**: Go-Zero, Spring Boot, ASP.NET Core  
+- 🧱 **Database**: MySQL, SQL Server  
+- 🧪 **Tools**: Git, GitHub, Swagger, Postman, VS Code, Visual Studio  
+- 🌐 **Frontend**: HTML, CSS, JavaScript (vanilla)
 
-#### 🏠 [Homestay Booking Platform](https://github.com/NguyenDuyHungIT17/homestay)
-- Role: Full-stack Developer & Database Designer
-- Tech: Java, Spring Boot, Spring Security, MySQL
-- Description: A booking platform with admin features to manage homestays, rooms, and user bookings.
+I’m particularly focused on:
 
-#### 🧳 [GoatBooking – Accommodation Booking Website](https://github.com/NguyenDuyHungIT17/goatBooking)
-- Role: Full-stack Developer
-- Tech: ASP.NET MVC, C#, Entity Framework, SQL Server
-- Description: Website for booking, canceling, and exploring homestays with dynamic search features.
+- 🧠 Writing clean, maintainable code  
+- 🔐 Building secure, token-based authentication with JWT  
+- ⚙️ Designing RESTful APIs with thoughtful architecture
 
 ---
 
-### 🎓 Education
+### 🧠 Currently into...
 
-- **Hanoi University of Industry** – Software Engineering (2022 – Present)
-- **Phu Duc High School** – Graduated 2022
+- Backend scalability & microservices  
+- Building real-world apps using Go + MySQL  
+- DevOps basics with Docker & CI/CD
 
 ---
 
-### 💬 Languages & Interests
+### 🎯 Fun facts
 
-- **Languages**: Basic conversational and technical English
-- **Interests**: ⚽ Football, 🏊 Swimming, 📚 Reading tech books, ✈️ Traveling
+- I like football, swimming, and tech books  
+- I believe clean code is better than clever code  
+- I build to learn, and I learn by building
 
 ---
 
