@@ -18,8 +18,8 @@ I am also comfortable working on the frontend and have an eye for UI/UX design. 
 I’m currently learning, building, breaking, and fixing things with:
 
 - **Golang** – blazing fast, simple, and my favorite for backend development  
-- **Java** – comfortable with Spring Boot, JPA, and secure APIs  
-- **C#** – experienced with ASP.NET Core & Entity Framework
+- **Java** – comfortable with Spring Boot, JPA, secure APIs,...
+- **C#** – experienced with ASP.NET Core & Entity Framework, ASP.NET MVC,...
 
 ---
 
