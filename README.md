@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hung 👋</h1>
+<h1 align="center">Hi, I'm Hung 👋</h1>
 <h3 align="center">Full-Stack Developer | Backend Enthusiast | Code. Learn. Repeat.</h3>
 
 <p align="center">
