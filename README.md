@@ -11,8 +11,9 @@
 
 ### 🚀 A bit about me
 
-I'm a passionate full-stack developer who thrives on clean architecture and robust backend systems.  
-Whether it's building APIs, designing databases, or optimizing performance — I love turning complex problems into elegant solutions.
+I'm a passionate full-stack developer who thrives on clean architecture and robust backend systems. Whether it's building APIs, designing databases, or optimizing performance — I love turning complex problems into elegant solutions.
+
+I am also comfortable working on the frontend and have an eye for UI/UX design. I enjoy crafting user interfaces that are both intuitive and visually appealing. Additionally, I take pride in designing scalable database schemas and I'm always eager to learn and take on new challenges.
 
 I’m currently learning, building, breaking, and fixing things with:
 
